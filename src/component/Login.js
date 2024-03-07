@@ -46,6 +46,10 @@ const Login = () => {
                                 <div className="field mt-5">
                                     <button className="button is-success is-fullwidth">Login</button>
                                 </div>
+                                <div class="has-text-centered">
+                                <p class="is-size-7"> Don't have an account? <a href="#" class="has-text-primary">Register</a>
+                                </p>
+                                </div>
                             </form>
                         </div>
                     </div>
